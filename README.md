@@ -1,2 +1,2 @@
 # Exit
-Simple setTimeout example
+Simple setTimeout() example in JS World
